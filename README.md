@@ -1,7 +1,3 @@
-Sure! Here's the updated README file without the code overview:
-
----
-
 # OrangeHRM Automation Project
 
 This project automates interactions with the OrangeHRM demo site using Python and Selenium WebDriver. It demonstrates how to perform tasks such as logging in, navigating modules, and extracting data.
@@ -45,5 +41,3 @@ The project consists of the following files:
     ```sh
     python test_orange_login.py
     ```
-
----
